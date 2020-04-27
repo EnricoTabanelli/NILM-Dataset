@@ -1,0 +1,7 @@
+Appliances:
+
+- Fan1
+- PowerBank
+- LightBulb
+- ElectricMoka
+- Monitor

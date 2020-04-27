@@ -1,0 +1,8 @@
+Appliances:
+
+- LightBulb
+- Fan3
+- Monitor
+- Laptop
+- Microwave
+- ElectricMoka

@@ -1,0 +1,12 @@
+Laptop 70%
+Battery 75%
+SmartPhone 65%
+
+Appliances:
+
+- Fan2
+- Microave_Starting/Microwave_On
+- Monitor
+- ElectricMoka
+- Laptop
+- Lightbulb

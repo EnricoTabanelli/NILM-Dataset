@@ -1,0 +1,14 @@
+WithoutSwitchingEvents - 30s - 03/12/2019 - 01pm
+Averaging over 20KHz
+
+- Power Bank: 50% 
+- Laptop: 40%
+- Monitor: Asus showing wallpaper
+- SamrtPhoneCharger: 70% ASUS
+
+
+Microwave:
+
+	1. Low (with Idle)
+	2. Medium (with Idle)
+	3. High (Without Idle)

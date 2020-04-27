@@ -1,0 +1,46 @@
+Laptop States CPU Stress - 29/11 - 15pm
+Averaging over 20KHz
+
+Using yes command from command line: yes /dev/null &
+This command will repeat the word "yes" at such speed 
+that consumes all available processor resources. Each 
+instances of "yes" will max out a single thread on a 
+single CPU core. This means that for a dual core mac 
+with hyperthread processor, to put full load onto the
+CPU we will need to have running at least 4 instances 
+of "yes".
+
+http://www.mactricksandtips.com/2013/05/how-to-stress-test-your-mac-cpu-ram-and-disk.html
+
+Cinebench: it's a real-world cross-platform test suite
+that evaluates computer's hardware capabilities. 
+You can choose how many thread you want to run and how
+long it takes.
+
+https://www.maxon.net/en/products/cinebench-r20-overview/
+
+MAC specifications:
+
+	- MacBook Pro 13-inch 2011
+	- 2.4GHz Intel Core i5, Hyperthread
+	- 16GB RAM
+	- Intel HD Graphics 3000 512 MB
+	- Brightness 100%
+	- Virtual Box on
+	- Battery 80%
+
+Test: 
+
+	1.  (60s) Idle
+	2.  (60s) Yes - 1 Thread  - 1 Core
+	3.  (60s) Yes - 2 Threads - 1 Core
+	3.  (60s) Yes - 3 Threads - 2 Cores
+	4.  (60s) Yes - 4 Threads - 2 Cores
+	5.  (90s) Yes - 30s Idle - 30s 4 Threads - 30s Idle
+	6.  (60s) Video 1080p60 https://www.youtube.com/watch?v=LXb3EKWsInQ
+	7.  (60s) Cinebench - 1 Thread  - 1 Core
+	8.  (60s) Cinebench - 2 Threads - 1 Core
+	9.  (60s) Cinebench - 3 Threads - 2 Cores
+	10. (60s) Cinebench - 4 Threads - 2 Cores
+	
+

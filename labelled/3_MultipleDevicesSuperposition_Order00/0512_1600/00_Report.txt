@@ -1,0 +1,11 @@
+Laptop 60%
+Battery 75%
+
+Appliances:
+
+- Powerbank
+- Laptop
+- Microwave
+- Fan3
+- ElectricMoka
+- LightBulb
