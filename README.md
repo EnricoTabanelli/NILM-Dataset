@@ -5,7 +5,7 @@ Non-Intrusive Load Monitoring (NILM) implies disaggregating the power consumptio
 The Dataset has been recorded employing a MCU-based measurement node. 
 The appliances collected in the Dataset are the following:
 
- 0: 'Nothing',\n
+ 0: 'Nothing',
  1: 'LightBulb',
  2: 'ElectricMoka',
  3: 'HeadPhones',
